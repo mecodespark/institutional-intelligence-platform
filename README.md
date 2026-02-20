@@ -1,4 +1,4 @@
-#Institutional Intelligence Platform for Technological Universities
+# Institutional Intelligence Platform for Technological Universities
 
 This project demonstrates an end-to-end institutional research and business intelligence environment aligned with the TU sector’s Targeted Enhancement Fund (TEF) vision.
 
