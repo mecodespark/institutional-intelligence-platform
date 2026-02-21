@@ -1,0 +1,875 @@
+Institution,Academic_Year,Level,Domicile,Field_of_Study,Enrolments
+ATU Donegal,2024,Postgraduate,All,All,910
+ATU Galway-Mayo,2024,Postgraduate,All,All,1460
+ATU Sligo,2024,Postgraduate,All,All,1735
+,2024,Postgraduate,All,All,4100
+Dublin City University,2024,Postgraduate,All,All,4715
+,2024,Postgraduate,All,All,4715
+"Dun Laoghaire Institute of Art, Design and Technology",2024,Postgraduate,All,All,450
+,2024,Postgraduate,All,All,450
+Dundalk IT,2024,Postgraduate,All,All,525
+,2024,Postgraduate,All,All,525
+"Mary Immaculate College, Limerick",2024,Postgraduate,All,All,720
+,2024,Postgraduate,All,All,720
+Maynooth University,2024,Postgraduate,All,All,2720
+,2024,Postgraduate,All,All,2720
+MTU Cork,2024,Postgraduate,All,All,1625
+MTU Kerry,2024,Postgraduate,All,All,260
+,2024,Postgraduate,All,All,1885
+National College of Art and Design,2024,Postgraduate,All,All,215
+,2024,Postgraduate,All,All,215
+National College of Ireland,2024,Postgraduate,All,All,3265
+,2024,Postgraduate,All,All,3265
+Royal College of Surgeons,2024,Postgraduate,All,All,2495
+,2024,Postgraduate,All,All,2495
+SETU Carlow,2024,Postgraduate,All,All,925
+SETU Waterford,2024,Postgraduate,All,All,1345
+,2024,Postgraduate,All,All,2265
+"St. Angelas College of Home Economics, Sligo",2024,Postgraduate,All,All,315
+,2024,Postgraduate,All,All,315
+TU Dublin Blanchardstown,2024,Postgraduate,All,All,185
+TU Dublin City,2024,Postgraduate,All,All,3040
+TU Dublin Tallaght,2024,Postgraduate,All,All,445
+,2024,Postgraduate,All,All,3670
+TUS Athlone,2024,Postgraduate,All,All,1140
+TUS Limerick,2024,Postgraduate,All,All,970
+,2024,Postgraduate,All,All,2110
+Trinity College Dublin,2024,Postgraduate,All,All,6850
+,2024,Postgraduate,All,All,6850
+University College Cork,2024,Postgraduate,All,All,7895
+,2024,Postgraduate,All,All,7895
+University College Dublin,2024,Postgraduate,All,All,12060
+,2024,Postgraduate,All,All,12060
+University of Galway,2024,Postgraduate,All,All,5345
+,2024,Postgraduate,All,All,5345
+University of Limerick,2024,Postgraduate,All,All,4930
+,2024,Postgraduate,All,All,4930
+TOTAL,2024,Postgraduate,All,All,66535
+ATU Donegal,2024,Undergraduate,All,All,4420
+ATU Galway-Mayo,2024,Undergraduate,All,All,6580
+ATU Sligo,2024,Undergraduate,All,All,12240
+,2024,Undergraduate,All,All,23240
+Dublin City University,2024,Undergraduate,All,All,15175
+,2024,Undergraduate,All,All,15175
+"Dun Laoghaire Institute of Art, Design and Technology",2024,Undergraduate,All,All,1955
+,2024,Undergraduate,All,All,1955
+Dundalk IT,2024,Undergraduate,All,All,4715
+,2024,Undergraduate,All,All,4715
+"Mary Immaculate College, Limerick",2024,Undergraduate,All,All,4170
+,2024,Undergraduate,All,All,4170
+Maynooth University,2024,Undergraduate,All,All,12840
+,2024,Undergraduate,All,All,12840
+MTU Cork,2024,Undergraduate,All,All,10340
+MTU Kerry,2024,Undergraduate,All,All,3020
+,2024,Undergraduate,All,All,13360
+National College of Art and Design,2024,Undergraduate,All,All,1305
+,2024,Undergraduate,All,All,1305
+National College of Ireland,2024,Undergraduate,All,All,2940
+,2024,Undergraduate,All,All,2940
+Royal College of Surgeons,2024,Undergraduate,All,All,3180
+,2024,Undergraduate,All,All,3180
+SETU Carlow,2024,Undergraduate,All,All,5980
+SETU Waterford,2024,Undergraduate,All,All,7200
+,2024,Undergraduate,All,All,13180
+"St. Angelas College of Home Economics, Sligo",2024,Undergraduate,All,All,1175
+,2024,Undergraduate,All,All,1175
+TU Dublin Blanchardstown,2024,Undergraduate,All,All,2610
+TU Dublin City,2024,Undergraduate,All,All,13825
+TU Dublin Tallaght,2024,Undergraduate,All,All,4920
+,2024,Undergraduate,All,All,21355
+TUS Athlone,2024,Undergraduate,All,All,4330
+TUS Limerick,2024,Undergraduate,All,All,6430
+,2024,Undergraduate,All,All,10765
+Trinity College Dublin,2024,Undergraduate,All,All,14235
+,2024,Undergraduate,All,All,14235
+University College Cork,2024,Undergraduate,All,All,17210
+,2024,Undergraduate,All,All,17210
+University College Dublin,2024,Undergraduate,All,All,22655
+,2024,Undergraduate,All,All,22655
+University of Galway,2024,Undergraduate,All,All,14745
+,2024,Undergraduate,All,All,14745
+University of Limerick,2024,Undergraduate,All,All,14135
+,2024,Undergraduate,All,All,14135
+TOTAL,2024,Undergraduate,All,All,212345
+ATU Donegal,2024,All,(Other) EU,All,45
+ATU Galway-Mayo,2024,All,(Other) EU,All,190
+ATU Sligo,2024,All,(Other) EU,All,275
+,2024,All,(Other) EU,All,510
+Dublin City University,2024,All,(Other) EU,All,695
+,2024,All,(Other) EU,All,695
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,(Other) EU,All,145
+,2024,All,(Other) EU,All,145
+Dundalk IT,2024,All,(Other) EU,All,205
+,2024,All,(Other) EU,All,205
+"Mary Immaculate College, Limerick",2024,All,(Other) EU,All,25
+,2024,All,(Other) EU,All,25
+Maynooth University,2024,All,(Other) EU,All,325
+,2024,All,(Other) EU,All,325
+MTU Cork,2024,All,(Other) EU,All,215
+MTU Kerry,2024,All,(Other) EU,All,35
+,2024,All,(Other) EU,All,250
+National College of Art and Design,2024,All,(Other) EU,All,40
+,2024,All,(Other) EU,All,40
+National College of Ireland,2024,All,(Other) EU,All,105
+,2024,All,(Other) EU,All,105
+Royal College of Surgeons,2024,All,(Other) EU,All,70
+,2024,All,(Other) EU,All,70
+SETU Carlow,2024,All,(Other) EU,All,180
+SETU Waterford,2024,All,(Other) EU,All,85
+,2024,All,(Other) EU,All,260
+"St. Angelas College of Home Economics, Sligo",2024,All,(Other) EU,All,5
+,2024,All,(Other) EU,All,5
+TU Dublin Blanchardstown,2024,All,(Other) EU,All,50
+TU Dublin City,2024,All,(Other) EU,All,520
+TU Dublin Tallaght,2024,All,(Other) EU,All,75
+,2024,All,(Other) EU,All,640
+TUS Athlone,2024,All,(Other) EU,All,55
+TUS Limerick,2024,All,(Other) EU,All,65
+,2024,All,(Other) EU,All,125
+Trinity College Dublin,2024,All,(Other) EU,All,1625
+,2024,All,(Other) EU,All,1625
+University College Cork,2024,All,(Other) EU,All,865
+,2024,All,(Other) EU,All,865
+University College Dublin,2024,All,(Other) EU,All,1625
+,2024,All,(Other) EU,All,1625
+University of Galway,2024,All,(Other) EU,All,630
+,2024,All,(Other) EU,All,630
+University of Limerick,2024,All,(Other) EU,All,460
+,2024,All,(Other) EU,All,460
+TOTAL,2024,All,(Other) EU,All,8610
+ATU Donegal,2024,All,Great Britain,All,5
+ATU Galway-Mayo,2024,All,Great Britain,All,15
+ATU Sligo,2024,All,Great Britain,All,150
+,2024,All,Great Britain,All,175
+Dublin City University,2024,All,Great Britain,All,55
+,2024,All,Great Britain,All,55
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,Great Britain,All,10
+,2024,All,Great Britain,All,10
+Dundalk IT,2024,All,Great Britain,All,5
+,2024,All,Great Britain,All,5
+"Mary Immaculate College, Limerick",2024,All,Great Britain,All,0
+,2024,All,Great Britain,All,0
+Maynooth University,2024,All,Great Britain,All,25
+,2024,All,Great Britain,All,25
+MTU Cork,2024,All,Great Britain,All,25
+MTU Kerry,2024,All,Great Britain,All,5
+,2024,All,Great Britain,All,35
+National College of Art and Design,2024,All,Great Britain,All,0
+,2024,All,Great Britain,All,0
+National College of Ireland,2024,All,Great Britain,All,0
+,2024,All,Great Britain,All,0
+Royal College of Surgeons,2024,All,Great Britain,All,55
+,2024,All,Great Britain,All,55
+SETU Carlow,2024,All,Great Britain,All,30
+SETU Waterford,2024,All,Great Britain,All,5
+,2024,All,Great Britain,All,35
+"St. Angelas College of Home Economics, Sligo",2024,All,Great Britain,All,0
+,2024,All,Great Britain,All,0
+TU Dublin Blanchardstown,2024,All,Great Britain,All,5
+TU Dublin City,2024,All,Great Britain,All,95
+TU Dublin Tallaght,2024,All,Great Britain,All,40
+,2024,All,Great Britain,All,140
+TUS Athlone,2024,All,Great Britain,All,0
+TUS Limerick,2024,All,Great Britain,All,5
+,2024,All,Great Britain,All,10
+Trinity College Dublin,2024,All,Great Britain,All,380
+,2024,All,Great Britain,All,380
+University College Cork,2024,All,Great Britain,All,155
+,2024,All,Great Britain,All,155
+University College Dublin,2024,All,Great Britain,All,150
+,2024,All,Great Britain,All,150
+University of Galway,2024,All,Great Britain,All,75
+,2024,All,Great Britain,All,75
+University of Limerick,2024,All,Great Britain,All,50
+,2024,All,Great Britain,All,50
+TOTAL,2024,All,Great Britain,All,1365
+ATU Donegal,2024,All,Ireland,All,4185
+ATU Galway-Mayo,2024,All,Ireland,All,7495
+ATU Sligo,2024,All,Ireland,All,12705
+,2024,All,Ireland,All,24385
+Dublin City University,2024,All,Ireland,All,17605
+,2024,All,Ireland,All,17605
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,Ireland,All,2130
+,2024,All,Ireland,All,2130
+Dundalk IT,2024,All,Ireland,All,4405
+,2024,All,Ireland,All,4405
+"Mary Immaculate College, Limerick",2024,All,Ireland,All,4775
+,2024,All,Ireland,All,4775
+Maynooth University,2024,All,Ireland,All,14250
+,2024,All,Ireland,All,14250
+MTU Cork,2024,All,Ireland,All,11410
+MTU Kerry,2024,All,Ireland,All,2980
+,2024,All,Ireland,All,14390
+National College of Art and Design,2024,All,Ireland,All,1425
+,2024,All,Ireland,All,1425
+National College of Ireland,2024,All,Ireland,All,3670
+,2024,All,Ireland,All,3670
+Royal College of Surgeons,2024,All,Ireland,All,3335
+,2024,All,Ireland,All,3335
+SETU Carlow,2024,All,Ireland,All,6250
+SETU Waterford,2024,All,Ireland,All,8080
+,2024,All,Ireland,All,14335
+"St. Angelas College of Home Economics, Sligo",2024,All,Ireland,All,1480
+,2024,All,Ireland,All,1480
+TU Dublin Blanchardstown,2024,All,Ireland,All,2640
+TU Dublin City,2024,All,Ireland,All,15240
+TU Dublin Tallaght,2024,All,Ireland,All,4910
+,2024,All,Ireland,All,22790
+TUS Athlone,2024,All,Ireland,All,4890
+TUS Limerick,2024,All,Ireland,All,6880
+,2024,All,Ireland,All,11770
+Trinity College Dublin,2024,All,Ireland,All,14140
+,2024,All,Ireland,All,14140
+University College Cork,2024,All,Ireland,All,20515
+,2024,All,Ireland,All,20515
+University College Dublin,2024,All,Ireland,All,26730
+,2024,All,Ireland,All,26730
+University of Galway,2024,All,Ireland,All,16030
+,2024,All,Ireland,All,16030
+University of Limerick,2024,All,Ireland,All,16185
+,2024,All,Ireland,All,16185
+TOTAL,2024,All,Ireland,All,234340
+ATU Donegal,2024,All,Non-EU,All,1015
+ATU Galway-Mayo,2024,All,Non-EU,All,325
+ATU Sligo,2024,All,Non-EU,All,540
+,2024,All,Non-EU,All,1885
+Dublin City University,2024,All,Non-EU,All,1490
+,2024,All,Non-EU,All,1490
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,Non-EU,All,120
+,2024,All,Non-EU,All,120
+Dundalk IT,2024,All,Non-EU,All,405
+,2024,All,Non-EU,All,405
+"Mary Immaculate College, Limerick",2024,All,Non-EU,All,85
+,2024,All,Non-EU,All,85
+Maynooth University,2024,All,Non-EU,All,925
+,2024,All,Non-EU,All,925
+MTU Cork,2024,All,Non-EU,All,310
+MTU Kerry,2024,All,Non-EU,All,255
+,2024,All,Non-EU,All,560
+National College of Art and Design,2024,All,Non-EU,All,50
+,2024,All,Non-EU,All,50
+National College of Ireland,2024,All,Non-EU,All,2420
+,2024,All,Non-EU,All,2420
+Royal College of Surgeons,2024,All,Non-EU,All,2190
+,2024,All,Non-EU,All,2190
+SETU Carlow,2024,All,Non-EU,All,395
+SETU Waterford,2024,All,Non-EU,All,360
+,2024,All,Non-EU,All,755
+"St. Angelas College of Home Economics, Sligo",2024,All,Non-EU,All,0
+,2024,All,Non-EU,All,0
+TU Dublin Blanchardstown,2024,All,Non-EU,All,100
+TU Dublin City,2024,All,Non-EU,All,1005
+TU Dublin Tallaght,2024,All,Non-EU,All,330
+,2024,All,Non-EU,All,1435
+TUS Athlone,2024,All,Non-EU,All,515
+TUS Limerick,2024,All,Non-EU,All,445
+,2024,All,Non-EU,All,960
+Trinity College Dublin,2024,All,Non-EU,All,4630
+,2024,All,Non-EU,All,4630
+University College Cork,2024,All,Non-EU,All,3500
+,2024,All,Non-EU,All,3500
+University College Dublin,2024,All,Non-EU,All,6025
+,2024,All,Non-EU,All,6025
+University of Galway,2024,All,Non-EU,All,3170
+,2024,All,Non-EU,All,3170
+University of Limerick,2024,All,Non-EU,All,2340
+,2024,All,Non-EU,All,2340
+TOTAL,2024,All,Non-EU,All,32940
+ATU Donegal,2024,All,Northern Ireland,All,75
+ATU Galway-Mayo,2024,All,Northern Ireland,All,15
+ATU Sligo,2024,All,Northern Ireland,All,300
+,2024,All,Northern Ireland,All,390
+Dublin City University,2024,All,Northern Ireland,All,45
+,2024,All,Northern Ireland,All,45
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,Northern Ireland,All,5
+,2024,All,Northern Ireland,All,5
+Dundalk IT,2024,All,Northern Ireland,All,220
+,2024,All,Northern Ireland,All,220
+"Mary Immaculate College, Limerick",2024,All,Northern Ireland,All,5
+,2024,All,Northern Ireland,All,5
+Maynooth University,2024,All,Northern Ireland,All,30
+,2024,All,Northern Ireland,All,30
+MTU Cork,2024,All,Northern Ireland,All,10
+MTU Kerry,2024,All,Northern Ireland,All,5
+,2024,All,Northern Ireland,All,15
+National College of Art and Design,2024,All,Northern Ireland,All,5
+,2024,All,Northern Ireland,All,5
+National College of Ireland,2024,All,Northern Ireland,All,0
+,2024,All,Northern Ireland,All,0
+Royal College of Surgeons,2024,All,Northern Ireland,All,20
+,2024,All,Northern Ireland,All,20
+SETU Carlow,2024,All,Northern Ireland,All,45
+SETU Waterford,2024,All,Northern Ireland,All,10
+,2024,All,Northern Ireland,All,55
+"St. Angelas College of Home Economics, Sligo",2024,All,Northern Ireland,All,5
+,2024,All,Northern Ireland,All,5
+TU Dublin Blanchardstown,2024,All,Northern Ireland,All,0
+TU Dublin City,2024,All,Northern Ireland,All,5
+TU Dublin Tallaght,2024,All,Northern Ireland,All,5
+,2024,All,Northern Ireland,All,15
+TUS Athlone,2024,All,Northern Ireland,All,5
+TUS Limerick,2024,All,Northern Ireland,All,5
+,2024,All,Northern Ireland,All,10
+Trinity College Dublin,2024,All,Northern Ireland,All,310
+,2024,All,Northern Ireland,All,310
+University College Cork,2024,All,Northern Ireland,All,65
+,2024,All,Northern Ireland,All,65
+University College Dublin,2024,All,Northern Ireland,All,170
+,2024,All,Northern Ireland,All,170
+University of Galway,2024,All,Northern Ireland,All,185
+,2024,All,Northern Ireland,All,185
+University of Limerick,2024,All,Northern Ireland,All,30
+,2024,All,Northern Ireland,All,30
+TOTAL,2024,All,Northern Ireland,All,1585
+ATU Donegal,2024,All,Unknown,All,0
+ATU Galway-Mayo,2024,All,Unknown,All,0
+ATU Sligo,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+Dublin City University,2024,All,Unknown,All,5
+,2024,All,Unknown,All,5
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+Dundalk IT,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+"Mary Immaculate College, Limerick",2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+Maynooth University,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+MTU Cork,2024,All,Unknown,All,0
+MTU Kerry,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+National College of Art and Design,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+National College of Ireland,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+Royal College of Surgeons,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+SETU Carlow,2024,All,Unknown,All,5
+SETU Waterford,2024,All,Unknown,All,0
+,2024,All,Unknown,All,5
+"St. Angelas College of Home Economics, Sligo",2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+TU Dublin Blanchardstown,2024,All,Unknown,All,0
+TU Dublin City,2024,All,Unknown,All,0
+TU Dublin Tallaght,2024,All,Unknown,All,5
+,2024,All,Unknown,All,5
+TUS Athlone,2024,All,Unknown,All,0
+TUS Limerick,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+Trinity College Dublin,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+University College Cork,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+University College Dublin,2024,All,Unknown,All,15
+,2024,All,Unknown,All,15
+University of Galway,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+University of Limerick,2024,All,Unknown,All,0
+,2024,All,Unknown,All,0
+TOTAL,2024,All,Unknown,All,40
+ATU Donegal,2024,All,All,"Agriculture, forestry, fisheries and veterinary",270
+ATU Galway-Mayo,2024,All,All,"Agriculture, forestry, fisheries and veterinary",250
+ATU Sligo,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",525
+Dublin City University,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+Dundalk IT,2024,All,All,"Agriculture, forestry, fisheries and veterinary",335
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",335
+"Mary Immaculate College, Limerick",2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+Maynooth University,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+MTU Cork,2024,All,All,"Agriculture, forestry, fisheries and veterinary",165
+MTU Kerry,2024,All,All,"Agriculture, forestry, fisheries and veterinary",215
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",380
+National College of Art and Design,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+National College of Ireland,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+Royal College of Surgeons,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+SETU Carlow,2024,All,All,"Agriculture, forestry, fisheries and veterinary",55
+SETU Waterford,2024,All,All,"Agriculture, forestry, fisheries and veterinary",520
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",575
+"St. Angelas College of Home Economics, Sligo",2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+TU Dublin Blanchardstown,2024,All,All,"Agriculture, forestry, fisheries and veterinary",15
+TU Dublin City,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+TU Dublin Tallaght,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",15
+TUS Athlone,2024,All,All,"Agriculture, forestry, fisheries and veterinary",165
+TUS Limerick,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",165
+Trinity College Dublin,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+University College Cork,2024,All,All,"Agriculture, forestry, fisheries and veterinary",125
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",125
+University College Dublin,2024,All,All,"Agriculture, forestry, fisheries and veterinary",2640
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",2640
+University of Galway,2024,All,All,"Agriculture, forestry, fisheries and veterinary",175
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",175
+University of Limerick,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+,2024,All,All,"Agriculture, forestry, fisheries and veterinary",0
+TOTAL,2024,All,All,"Agriculture, forestry, fisheries and veterinary",4940
+ATU Donegal,2024,All,All,Arts and humanities,210
+ATU Galway-Mayo,2024,All,All,Arts and humanities,760
+ATU Sligo,2024,All,All,Arts and humanities,575
+,2024,All,All,Arts and humanities,1545
+Dublin City University,2024,All,All,Arts and humanities,2680
+,2024,All,All,Arts and humanities,2680
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,Arts and humanities,1495
+,2024,All,All,Arts and humanities,1495
+Dundalk IT,2024,All,All,Arts and humanities,520
+,2024,All,All,Arts and humanities,520
+"Mary Immaculate College, Limerick",2024,All,All,Arts and humanities,935
+,2024,All,All,Arts and humanities,935
+Maynooth University,2024,All,All,Arts and humanities,2890
+,2024,All,All,Arts and humanities,2890
+MTU Cork,2024,All,All,Arts and humanities,1320
+MTU Kerry,2024,All,All,Arts and humanities,90
+,2024,All,All,Arts and humanities,1410
+National College of Art and Design,2024,All,All,Arts and humanities,1325
+,2024,All,All,Arts and humanities,1325
+National College of Ireland,2024,All,All,Arts and humanities,0
+,2024,All,All,Arts and humanities,0
+Royal College of Surgeons,2024,All,All,Arts and humanities,0
+,2024,All,All,Arts and humanities,0
+SETU Carlow,2024,All,All,Arts and humanities,380
+SETU Waterford,2024,All,All,Arts and humanities,565
+,2024,All,All,Arts and humanities,945
+"St. Angelas College of Home Economics, Sligo",2024,All,All,Arts and humanities,90
+,2024,All,All,Arts and humanities,90
+TU Dublin Blanchardstown,2024,All,All,Arts and humanities,205
+TU Dublin City,2024,All,All,Arts and humanities,1945
+TU Dublin Tallaght,2024,All,All,Arts and humanities,190
+,2024,All,All,Arts and humanities,2340
+TUS Athlone,2024,All,All,Arts and humanities,270
+TUS Limerick,2024,All,All,Arts and humanities,1115
+,2024,All,All,Arts and humanities,1385
+Trinity College Dublin,2024,All,All,Arts and humanities,4035
+,2024,All,All,Arts and humanities,4035
+University College Cork,2024,All,All,Arts and humanities,3885
+,2024,All,All,Arts and humanities,3885
+University College Dublin,2024,All,All,Arts and humanities,3860
+,2024,All,All,Arts and humanities,3860
+University of Galway,2024,All,All,Arts and humanities,3930
+,2024,All,All,Arts and humanities,3930
+University of Limerick,2024,All,All,Arts and humanities,2200
+,2024,All,All,Arts and humanities,2200
+TOTAL,2024,All,All,Arts and humanities,35485
+ATU Donegal,2024,All,All,"Business, administration and law",980
+ATU Galway-Mayo,2024,All,All,"Business, administration and law",1120
+ATU Sligo,2024,All,All,"Business, administration and law",6810
+,2024,All,All,"Business, administration and law",8910
+Dublin City University,2024,All,All,"Business, administration and law",4225
+,2024,All,All,"Business, administration and law",4225
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,"Business, administration and law",385
+,2024,All,All,"Business, administration and law",385
+Dundalk IT,2024,All,All,"Business, administration and law",895
+,2024,All,All,"Business, administration and law",895
+"Mary Immaculate College, Limerick",2024,All,All,"Business, administration and law",0
+,2024,All,All,"Business, administration and law",0
+Maynooth University,2024,All,All,"Business, administration and law",4850
+,2024,All,All,"Business, administration and law",4850
+MTU Cork,2024,All,All,"Business, administration and law",2635
+MTU Kerry,2024,All,All,"Business, administration and law",245
+,2024,All,All,"Business, administration and law",2875
+National College of Art and Design,2024,All,All,"Business, administration and law",0
+,2024,All,All,"Business, administration and law",0
+National College of Ireland,2024,All,All,"Business, administration and law",2720
+,2024,All,All,"Business, administration and law",2720
+Royal College of Surgeons,2024,All,All,"Business, administration and law",0
+,2024,All,All,"Business, administration and law",0
+SETU Carlow,2024,All,All,"Business, administration and law",1460
+SETU Waterford,2024,All,All,"Business, administration and law",2265
+,2024,All,All,"Business, administration and law",3725
+"St. Angelas College of Home Economics, Sligo",2024,All,All,"Business, administration and law",0
+,2024,All,All,"Business, administration and law",0
+TU Dublin Blanchardstown,2024,All,All,"Business, administration and law",620
+TU Dublin City,2024,All,All,"Business, administration and law",3980
+TU Dublin Tallaght,2024,All,All,"Business, administration and law",1425
+,2024,All,All,"Business, administration and law",6020
+TUS Athlone,2024,All,All,"Business, administration and law",1260
+TUS Limerick,2024,All,All,"Business, administration and law",1235
+,2024,All,All,"Business, administration and law",2495
+Trinity College Dublin,2024,All,All,"Business, administration and law",2720
+,2024,All,All,"Business, administration and law",2720
+University College Cork,2024,All,All,"Business, administration and law",3930
+,2024,All,All,"Business, administration and law",3930
+University College Dublin,2024,All,All,"Business, administration and law",6340
+,2024,All,All,"Business, administration and law",6340
+University of Galway,2024,All,All,"Business, administration and law",3880
+,2024,All,All,"Business, administration and law",3880
+University of Limerick,2024,All,All,"Business, administration and law",4270
+,2024,All,All,"Business, administration and law",4270
+TOTAL,2024,All,All,"Business, administration and law",58240
+ATU Donegal,2024,All,All,Education,70
+ATU Galway-Mayo,2024,All,All,Education,455
+ATU Sligo,2024,All,All,Education,35
+,2024,All,All,Education,565
+Dublin City University,2024,All,All,Education,4290
+,2024,All,All,Education,4290
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,Education,0
+,2024,All,All,Education,0
+Dundalk IT,2024,All,All,Education,40
+,2024,All,All,Education,40
+"Mary Immaculate College, Limerick",2024,All,All,Education,3765
+,2024,All,All,Education,3765
+Maynooth University,2024,All,All,Education,1510
+,2024,All,All,Education,1510
+MTU Cork,2024,All,All,Education,255
+MTU Kerry,2024,All,All,Education,0
+,2024,All,All,Education,255
+National College of Art and Design,2024,All,All,Education,155
+,2024,All,All,Education,155
+National College of Ireland,2024,All,All,Education,235
+,2024,All,All,Education,235
+Royal College of Surgeons,2024,All,All,Education,0
+,2024,All,All,Education,0
+SETU Carlow,2024,All,All,Education,140
+SETU Waterford,2024,All,All,Education,160
+,2024,All,All,Education,300
+"St. Angelas College of Home Economics, Sligo",2024,All,All,Education,855
+,2024,All,All,Education,855
+TU Dublin Blanchardstown,2024,All,All,Education,0
+TU Dublin City,2024,All,All,Education,190
+TU Dublin Tallaght,2024,All,All,Education,155
+,2024,All,All,Education,345
+TUS Athlone,2024,All,All,Education,140
+TUS Limerick,2024,All,All,Education,145
+,2024,All,All,Education,285
+Trinity College Dublin,2024,All,All,Education,490
+,2024,All,All,Education,490
+University College Cork,2024,All,All,Education,910
+,2024,All,All,Education,910
+University College Dublin,2024,All,All,Education,2125
+,2024,All,All,Education,2125
+University of Galway,2024,All,All,Education,560
+,2024,All,All,Education,560
+University of Limerick,2024,All,All,Education,1865
+,2024,All,All,Education,1865
+TOTAL,2024,All,All,Education,18565
+ATU Donegal,2024,All,All,"Engineering, manufacturing and construction",635
+ATU Galway-Mayo,2024,All,All,"Engineering, manufacturing and construction",1820
+ATU Sligo,2024,All,All,"Engineering, manufacturing and construction",2815
+,2024,All,All,"Engineering, manufacturing and construction",5270
+Dublin City University,2024,All,All,"Engineering, manufacturing and construction",1230
+,2024,All,All,"Engineering, manufacturing and construction",1230
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,"Engineering, manufacturing and construction",0
+,2024,All,All,"Engineering, manufacturing and construction",0
+Dundalk IT,2024,All,All,"Engineering, manufacturing and construction",1000
+,2024,All,All,"Engineering, manufacturing and construction",1000
+"Mary Immaculate College, Limerick",2024,All,All,"Engineering, manufacturing and construction",0
+,2024,All,All,"Engineering, manufacturing and construction",0
+Maynooth University,2024,All,All,"Engineering, manufacturing and construction",380
+,2024,All,All,"Engineering, manufacturing and construction",380
+MTU Cork,2024,All,All,"Engineering, manufacturing and construction",3160
+MTU Kerry,2024,All,All,"Engineering, manufacturing and construction",445
+,2024,All,All,"Engineering, manufacturing and construction",3610
+National College of Art and Design,2024,All,All,"Engineering, manufacturing and construction",0
+,2024,All,All,"Engineering, manufacturing and construction",0
+National College of Ireland,2024,All,All,"Engineering, manufacturing and construction",0
+,2024,All,All,"Engineering, manufacturing and construction",0
+Royal College of Surgeons,2024,All,All,"Engineering, manufacturing and construction",0
+,2024,All,All,"Engineering, manufacturing and construction",0
+SETU Carlow,2024,All,All,"Engineering, manufacturing and construction",1090
+SETU Waterford,2024,All,All,"Engineering, manufacturing and construction",1360
+,2024,All,All,"Engineering, manufacturing and construction",2450
+"St. Angelas College of Home Economics, Sligo",2024,All,All,"Engineering, manufacturing and construction",0
+,2024,All,All,"Engineering, manufacturing and construction",0
+TU Dublin Blanchardstown,2024,All,All,"Engineering, manufacturing and construction",405
+TU Dublin City,2024,All,All,"Engineering, manufacturing and construction",4800
+TU Dublin Tallaght,2024,All,All,"Engineering, manufacturing and construction",795
+,2024,All,All,"Engineering, manufacturing and construction",6000
+TUS Athlone,2024,All,All,"Engineering, manufacturing and construction",865
+TUS Limerick,2024,All,All,"Engineering, manufacturing and construction",2365
+,2024,All,All,"Engineering, manufacturing and construction",3230
+Trinity College Dublin,2024,All,All,"Engineering, manufacturing and construction",1585
+,2024,All,All,"Engineering, manufacturing and construction",1585
+University College Cork,2024,All,All,"Engineering, manufacturing and construction",1690
+,2024,All,All,"Engineering, manufacturing and construction",1690
+University College Dublin,2024,All,All,"Engineering, manufacturing and construction",3225
+,2024,All,All,"Engineering, manufacturing and construction",3225
+University of Galway,2024,All,All,"Engineering, manufacturing and construction",1895
+,2024,All,All,"Engineering, manufacturing and construction",1895
+University of Limerick,2024,All,All,"Engineering, manufacturing and construction",3095
+,2024,All,All,"Engineering, manufacturing and construction",3095
+TOTAL,2024,All,All,"Engineering, manufacturing and construction",34650
+ATU Donegal,2024,All,All,Generic programmes and qualifications,725
+ATU Galway-Mayo,2024,All,All,Generic programmes and qualifications,25
+ATU Sligo,2024,All,All,Generic programmes and qualifications,10
+,2024,All,All,Generic programmes and qualifications,760
+Dublin City University,2024,All,All,Generic programmes and qualifications,65
+,2024,All,All,Generic programmes and qualifications,65
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,Generic programmes and qualifications,20
+,2024,All,All,Generic programmes and qualifications,20
+Dundalk IT,2024,All,All,Generic programmes and qualifications,0
+,2024,All,All,Generic programmes and qualifications,0
+"Mary Immaculate College, Limerick",2024,All,All,Generic programmes and qualifications,95
+,2024,All,All,Generic programmes and qualifications,95
+Maynooth University,2024,All,All,Generic programmes and qualifications,20
+,2024,All,All,Generic programmes and qualifications,20
+MTU Cork,2024,All,All,Generic programmes and qualifications,30
+MTU Kerry,2024,All,All,Generic programmes and qualifications,100
+,2024,All,All,Generic programmes and qualifications,130
+National College of Art and Design,2024,All,All,Generic programmes and qualifications,0
+,2024,All,All,Generic programmes and qualifications,0
+National College of Ireland,2024,All,All,Generic programmes and qualifications,0
+,2024,All,All,Generic programmes and qualifications,0
+Royal College of Surgeons,2024,All,All,Generic programmes and qualifications,0
+,2024,All,All,Generic programmes and qualifications,0
+SETU Carlow,2024,All,All,Generic programmes and qualifications,20
+SETU Waterford,2024,All,All,Generic programmes and qualifications,150
+,2024,All,All,Generic programmes and qualifications,170
+"St. Angelas College of Home Economics, Sligo",2024,All,All,Generic programmes and qualifications,0
+,2024,All,All,Generic programmes and qualifications,0
+TU Dublin Blanchardstown,2024,All,All,Generic programmes and qualifications,0
+TU Dublin City,2024,All,All,Generic programmes and qualifications,185
+TU Dublin Tallaght,2024,All,All,Generic programmes and qualifications,270
+,2024,All,All,Generic programmes and qualifications,460
+TUS Athlone,2024,All,All,Generic programmes and qualifications,15
+TUS Limerick,2024,All,All,Generic programmes and qualifications,105
+,2024,All,All,Generic programmes and qualifications,120
+Trinity College Dublin,2024,All,All,Generic programmes and qualifications,315
+,2024,All,All,Generic programmes and qualifications,315
+University College Cork,2024,All,All,Generic programmes and qualifications,0
+,2024,All,All,Generic programmes and qualifications,0
+University College Dublin,2024,All,All,Generic programmes and qualifications,285
+,2024,All,All,Generic programmes and qualifications,285
+University of Galway,2024,All,All,Generic programmes and qualifications,90
+,2024,All,All,Generic programmes and qualifications,90
+University of Limerick,2024,All,All,Generic programmes and qualifications,385
+,2024,All,All,Generic programmes and qualifications,385
+TOTAL,2024,All,All,Generic programmes and qualifications,2910
+ATU Donegal,2024,All,All,Health and welfare,935
+ATU Galway-Mayo,2024,All,All,Health and welfare,650
+ATU Sligo,2024,All,All,Health and welfare,1075
+,2024,All,All,Health and welfare,2660
+Dublin City University,2024,All,All,Health and welfare,1915
+,2024,All,All,Health and welfare,1915
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,Health and welfare,0
+,2024,All,All,Health and welfare,0
+Dundalk IT,2024,All,All,Health and welfare,1230
+,2024,All,All,Health and welfare,1230
+"Mary Immaculate College, Limerick",2024,All,All,Health and welfare,0
+,2024,All,All,Health and welfare,0
+Maynooth University,2024,All,All,Health and welfare,310
+,2024,All,All,Health and welfare,310
+MTU Cork,2024,All,All,Health and welfare,815
+MTU Kerry,2024,All,All,Health and welfare,1070
+,2024,All,All,Health and welfare,1880
+National College of Art and Design,2024,All,All,Health and welfare,0
+,2024,All,All,Health and welfare,0
+National College of Ireland,2024,All,All,Health and welfare,0
+,2024,All,All,Health and welfare,0
+Royal College of Surgeons,2024,All,All,Health and welfare,5670
+,2024,All,All,Health and welfare,5670
+SETU Carlow,2024,All,All,Health and welfare,1220
+SETU Waterford,2024,All,All,Health and welfare,1420
+,2024,All,All,Health and welfare,2640
+"St. Angelas College of Home Economics, Sligo",2024,All,All,Health and welfare,415
+,2024,All,All,Health and welfare,415
+TU Dublin Blanchardstown,2024,All,All,Health and welfare,405
+TU Dublin City,2024,All,All,Health and welfare,1065
+TU Dublin Tallaght,2024,All,All,Health and welfare,195
+,2024,All,All,Health and welfare,1670
+TUS Athlone,2024,All,All,Health and welfare,1345
+TUS Limerick,2024,All,All,Health and welfare,625
+,2024,All,All,Health and welfare,1970
+Trinity College Dublin,2024,All,All,Health and welfare,5315
+,2024,All,All,Health and welfare,5315
+University College Cork,2024,All,All,Health and welfare,7040
+,2024,All,All,Health and welfare,7040
+University College Dublin,2024,All,All,Health and welfare,6980
+,2024,All,All,Health and welfare,6980
+University of Galway,2024,All,All,Health and welfare,3890
+,2024,All,All,Health and welfare,3890
+University of Limerick,2024,All,All,Health and welfare,2725
+,2024,All,All,Health and welfare,2725
+TOTAL,2024,All,All,Health and welfare,46315
+ATU Donegal,2024,All,All,Information and Communication Technologies (ICTs),915
+ATU Galway-Mayo,2024,All,All,Information and Communication Technologies (ICTs),1345
+ATU Sligo,2024,All,All,Information and Communication Technologies (ICTs),395
+,2024,All,All,Information and Communication Technologies (ICTs),2655
+Dublin City University,2024,All,All,Information and Communication Technologies (ICTs),1465
+,2024,All,All,Information and Communication Technologies (ICTs),1465
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,Information and Communication Technologies (ICTs),160
+,2024,All,All,Information and Communication Technologies (ICTs),160
+Dundalk IT,2024,All,All,Information and Communication Technologies (ICTs),700
+,2024,All,All,Information and Communication Technologies (ICTs),700
+"Mary Immaculate College, Limerick",2024,All,All,Information and Communication Technologies (ICTs),0
+,2024,All,All,Information and Communication Technologies (ICTs),0
+Maynooth University,2024,All,All,Information and Communication Technologies (ICTs),1045
+,2024,All,All,Information and Communication Technologies (ICTs),1045
+MTU Cork,2024,All,All,Information and Communication Technologies (ICTs),1075
+MTU Kerry,2024,All,All,Information and Communication Technologies (ICTs),150
+,2024,All,All,Information and Communication Technologies (ICTs),1225
+National College of Art and Design,2024,All,All,Information and Communication Technologies (ICTs),40
+,2024,All,All,Information and Communication Technologies (ICTs),40
+National College of Ireland,2024,All,All,Information and Communication Technologies (ICTs),2950
+,2024,All,All,Information and Communication Technologies (ICTs),2950
+Royal College of Surgeons,2024,All,All,Information and Communication Technologies (ICTs),0
+,2024,All,All,Information and Communication Technologies (ICTs),0
+SETU Carlow,2024,All,All,Information and Communication Technologies (ICTs),750
+SETU Waterford,2024,All,All,Information and Communication Technologies (ICTs),840
+,2024,All,All,Information and Communication Technologies (ICTs),1590
+"St. Angelas College of Home Economics, Sligo",2024,All,All,Information and Communication Technologies (ICTs),0
+,2024,All,All,Information and Communication Technologies (ICTs),0
+TU Dublin Blanchardstown,2024,All,All,Information and Communication Technologies (ICTs),855
+TU Dublin City,2024,All,All,Information and Communication Technologies (ICTs),1585
+TU Dublin Tallaght,2024,All,All,Information and Communication Technologies (ICTs),775
+,2024,All,All,Information and Communication Technologies (ICTs),3210
+TUS Athlone,2024,All,All,Information and Communication Technologies (ICTs),670
+TUS Limerick,2024,All,All,Information and Communication Technologies (ICTs),515
+,2024,All,All,Information and Communication Technologies (ICTs),1185
+Trinity College Dublin,2024,All,All,Information and Communication Technologies (ICTs),1185
+,2024,All,All,Information and Communication Technologies (ICTs),1185
+University College Cork,2024,All,All,Information and Communication Technologies (ICTs),1450
+,2024,All,All,Information and Communication Technologies (ICTs),1450
+University College Dublin,2024,All,All,Information and Communication Technologies (ICTs),1590
+,2024,All,All,Information and Communication Technologies (ICTs),1590
+University of Galway,2024,All,All,Information and Communication Technologies (ICTs),780
+,2024,All,All,Information and Communication Technologies (ICTs),780
+University of Limerick,2024,All,All,Information and Communication Technologies (ICTs),1275
+,2024,All,All,Information and Communication Technologies (ICTs),1275
+TOTAL,2024,All,All,Information and Communication Technologies (ICTs),22495
+ATU Donegal,2024,All,All,"Natural sciences, mathematics and statistics",135
+ATU Galway-Mayo,2024,All,All,"Natural sciences, mathematics and statistics",1020
+ATU Sligo,2024,All,All,"Natural sciences, mathematics and statistics",1535
+,2024,All,All,"Natural sciences, mathematics and statistics",2690
+Dublin City University,2024,All,All,"Natural sciences, mathematics and statistics",1790
+,2024,All,All,"Natural sciences, mathematics and statistics",1790
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,"Natural sciences, mathematics and statistics",15
+,2024,All,All,"Natural sciences, mathematics and statistics",15
+Dundalk IT,2024,All,All,"Natural sciences, mathematics and statistics",170
+,2024,All,All,"Natural sciences, mathematics and statistics",170
+"Mary Immaculate College, Limerick",2024,All,All,"Natural sciences, mathematics and statistics",10
+,2024,All,All,"Natural sciences, mathematics and statistics",10
+Maynooth University,2024,All,All,"Natural sciences, mathematics and statistics",2140
+,2024,All,All,"Natural sciences, mathematics and statistics",2140
+MTU Cork,2024,All,All,"Natural sciences, mathematics and statistics",1385
+MTU Kerry,2024,All,All,"Natural sciences, mathematics and statistics",465
+,2024,All,All,"Natural sciences, mathematics and statistics",1850
+National College of Art and Design,2024,All,All,"Natural sciences, mathematics and statistics",0
+,2024,All,All,"Natural sciences, mathematics and statistics",0
+National College of Ireland,2024,All,All,"Natural sciences, mathematics and statistics",0
+,2024,All,All,"Natural sciences, mathematics and statistics",0
+Royal College of Surgeons,2024,All,All,"Natural sciences, mathematics and statistics",0
+,2024,All,All,"Natural sciences, mathematics and statistics",0
+SETU Carlow,2024,All,All,"Natural sciences, mathematics and statistics",290
+SETU Waterford,2024,All,All,"Natural sciences, mathematics and statistics",515
+,2024,All,All,"Natural sciences, mathematics and statistics",805
+"St. Angelas College of Home Economics, Sligo",2024,All,All,"Natural sciences, mathematics and statistics",135
+,2024,All,All,"Natural sciences, mathematics and statistics",135
+TU Dublin Blanchardstown,2024,All,All,"Natural sciences, mathematics and statistics",0
+TU Dublin City,2024,All,All,"Natural sciences, mathematics and statistics",1600
+TU Dublin Tallaght,2024,All,All,"Natural sciences, mathematics and statistics",1450
+,2024,All,All,"Natural sciences, mathematics and statistics",3050
+TUS Athlone,2024,All,All,"Natural sciences, mathematics and statistics",410
+TUS Limerick,2024,All,All,"Natural sciences, mathematics and statistics",480
+,2024,All,All,"Natural sciences, mathematics and statistics",890
+Trinity College Dublin,2024,All,All,"Natural sciences, mathematics and statistics",2950
+,2024,All,All,"Natural sciences, mathematics and statistics",2950
+University College Cork,2024,All,All,"Natural sciences, mathematics and statistics",3435
+,2024,All,All,"Natural sciences, mathematics and statistics",3435
+University College Dublin,2024,All,All,"Natural sciences, mathematics and statistics",3960
+,2024,All,All,"Natural sciences, mathematics and statistics",3960
+University of Galway,2024,All,All,"Natural sciences, mathematics and statistics",2930
+,2024,All,All,"Natural sciences, mathematics and statistics",2930
+University of Limerick,2024,All,All,"Natural sciences, mathematics and statistics",1700
+,2024,All,All,"Natural sciences, mathematics and statistics",1700
+TOTAL,2024,All,All,"Natural sciences, mathematics and statistics",28510
+ATU Donegal,2024,All,All,Services,455
+ATU Galway-Mayo,2024,All,All,Services,525
+ATU Sligo,2024,All,All,Services,595
+,2024,All,All,Services,1570
+Dublin City University,2024,All,All,Services,335
+,2024,All,All,Services,335
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,Services,0
+,2024,All,All,Services,0
+Dundalk IT,2024,All,All,Services,230
+,2024,All,All,Services,230
+"Mary Immaculate College, Limerick",2024,All,All,Services,0
+,2024,All,All,Services,0
+Maynooth University,2024,All,All,Services,220
+,2024,All,All,Services,220
+MTU Cork,2024,All,All,Services,1105
+MTU Kerry,2024,All,All,Services,495
+,2024,All,All,Services,1600
+National College of Art and Design,2024,All,All,Services,0
+,2024,All,All,Services,0
+National College of Ireland,2024,All,All,Services,0
+,2024,All,All,Services,0
+Royal College of Surgeons,2024,All,All,Services,0
+,2024,All,All,Services,0
+SETU Carlow,2024,All,All,Services,1010
+SETU Waterford,2024,All,All,Services,570
+,2024,All,All,Services,1580
+"St. Angelas College of Home Economics, Sligo",2024,All,All,Services,0
+,2024,All,All,Services,0
+TU Dublin Blanchardstown,2024,All,All,Services,180
+TU Dublin City,2024,All,All,Services,1135
+TU Dublin Tallaght,2024,All,All,Services,110
+,2024,All,All,Services,1425
+TUS Athlone,2024,All,All,Services,240
+TUS Limerick,2024,All,All,Services,485
+,2024,All,All,Services,725
+Trinity College Dublin,2024,All,All,Services,15
+,2024,All,All,Services,15
+University College Cork,2024,All,All,Services,140
+,2024,All,All,Services,140
+University College Dublin,2024,All,All,Services,150
+,2024,All,All,Services,150
+University of Galway,2024,All,All,Services,90
+,2024,All,All,Services,90
+University of Limerick,2024,All,All,Services,435
+,2024,All,All,Services,435
+TOTAL,2024,All,All,Services,8510
+ATU Donegal,2024,All,All,"Social sciences, journalism and information",0
+ATU Galway-Mayo,2024,All,All,"Social sciences, journalism and information",65
+ATU Sligo,2024,All,All,"Social sciences, journalism and information",130
+,2024,All,All,"Social sciences, journalism and information",195
+Dublin City University,2024,All,All,"Social sciences, journalism and information",1895
+,2024,All,All,"Social sciences, journalism and information",1895
+"Dun Laoghaire Institute of Art, Design and Technology",2024,All,All,"Social sciences, journalism and information",335
+,2024,All,All,"Social sciences, journalism and information",335
+Dundalk IT,2024,All,All,"Social sciences, journalism and information",130
+,2024,All,All,"Social sciences, journalism and information",130
+"Mary Immaculate College, Limerick",2024,All,All,"Social sciences, journalism and information",85
+,2024,All,All,"Social sciences, journalism and information",85
+Maynooth University,2024,All,All,"Social sciences, journalism and information",2200
+,2024,All,All,"Social sciences, journalism and information",2200
+MTU Cork,2024,All,All,"Social sciences, journalism and information",25
+MTU Kerry,2024,All,All,"Social sciences, journalism and information",0
+,2024,All,All,"Social sciences, journalism and information",25
+National College of Art and Design,2024,All,All,"Social sciences, journalism and information",0
+,2024,All,All,"Social sciences, journalism and information",0
+National College of Ireland,2024,All,All,"Social sciences, journalism and information",300
+,2024,All,All,"Social sciences, journalism and information",300
+Royal College of Surgeons,2024,All,All,"Social sciences, journalism and information",0
+,2024,All,All,"Social sciences, journalism and information",0
+SETU Carlow,2024,All,All,"Social sciences, journalism and information",495
+SETU Waterford,2024,All,All,"Social sciences, journalism and information",170
+,2024,All,All,"Social sciences, journalism and information",670
+"St. Angelas College of Home Economics, Sligo",2024,All,All,"Social sciences, journalism and information",0
+,2024,All,All,"Social sciences, journalism and information",0
+TU Dublin Blanchardstown,2024,All,All,"Social sciences, journalism and information",115
+TU Dublin City,2024,All,All,"Social sciences, journalism and information",375
+TU Dublin Tallaght,2024,All,All,"Social sciences, journalism and information",0
+,2024,All,All,"Social sciences, journalism and information",490
+TUS Athlone,2024,All,All,"Social sciences, journalism and information",90
+TUS Limerick,2024,All,All,"Social sciences, journalism and information",330
+,2024,All,All,"Social sciences, journalism and information",420
+Trinity College Dublin,2024,All,All,"Social sciences, journalism and information",2490
+,2024,All,All,"Social sciences, journalism and information",2490
+University College Cork,2024,All,All,"Social sciences, journalism and information",2495
+,2024,All,All,"Social sciences, journalism and information",2495
+University College Dublin,2024,All,All,"Social sciences, journalism and information",3560
+,2024,All,All,"Social sciences, journalism and information",3560
+University of Galway,2024,All,All,"Social sciences, journalism and information",1870
+,2024,All,All,"Social sciences, journalism and information",1870
+University of Limerick,2024,All,All,"Social sciences, journalism and information",1120
+,2024,All,All,"Social sciences, journalism and information",1120
+TOTAL,2024,All,All,"Social sciences, journalism and information",18270
