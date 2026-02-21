@@ -1,0 +1,25 @@
+Student_Profile_Key,Gender,Age_Band,Socio_Economic_Group
+1,Male,21-25,High
+2,Female,21-25,Medium
+3,Male,21-25,Low
+4,Female,21-25,Low
+5,Male,21-25,Medium
+6,Male,Under 21,Medium
+7,Female,Under 21,Medium
+8,Male,30+,Medium
+9,Male,26-30,High
+10,Female,Under 21,High
+11,Female,26-30,Low
+12,Male,Under 21,Low
+13,Female,26-30,Medium
+14,Female,30+,Low
+15,Female,21-25,High
+16,Female,30+,High
+17,Male,Under 21,High
+18,Female,Under 21,Low
+19,Female,26-30,High
+20,Male,30+,High
+21,Male,26-30,Low
+22,Male,26-30,Medium
+23,Female,30+,Medium
+24,Male,30+,Low
